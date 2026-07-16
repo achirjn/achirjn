@@ -37,8 +37,8 @@ I am a Computer Science undergrad at NIT Surat, building scalable backend system
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/achir-jain)
-[![Resume](https://img.shields.io/badge/View_My_Resume-EA4335?style=flat-square&logo=google-drive&logoColor=white)]([Your-Resume-Link-Here](https://drive.google.com/file/d/15CihRyJEQCOgQYUTxWGhhBne72qYmSy3/view?usp=sharing))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achir-jain)
+[![Resume](https://img.shields.io/badge/View_My_Resume-EA4335?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/15CihRyJEQCOgQYUTxWGhhBne72qYmSy3/view?usp=sharing)
 
 <!--
 **achirjn/achirjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
